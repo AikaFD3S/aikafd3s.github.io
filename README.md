@@ -1,1 +1,1 @@
-# aikafd3s.page.io
+# aikafd3s.github.io
